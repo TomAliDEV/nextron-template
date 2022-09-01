@@ -10,7 +10,7 @@ function Next() {
       </Head>
       <div>
         <p>
-          ⚡ Electron + Next.js ⚡ -
+         ⚡  Electron + Next.js + Nextron  -
           <Link href="/home">
             <a>Go to home page</a>
           </Link>
